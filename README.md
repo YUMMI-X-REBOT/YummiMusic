@@ -1,7 +1,7 @@
-[![Yᑌᗰᗰ! χ SᑭOᖇT!](https://te.legra.ph/file/c17f3f45ea3beb8037d07.jpg)](https://t.me/world_of_kaal)
+[![Yᑌᗰᗰ! χ SᑭOᖇT!](https://te.legra.ph/file/c17f3f45ea3beb8037d07.jpg)](https://t.me/YummiSport)
 # Yᑌᗰᗰ! χ SᑭOᖇT!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+WORLD+OF+KAAL+REPO)](https://t.me/world_of_kaal_1)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+WORLD+OF+Yᑌᗰᗰ! χ SᑭOᖇT!)](https://t.me/YummiSport)
 
 <p align="center">
     WORLD OF KAAL
