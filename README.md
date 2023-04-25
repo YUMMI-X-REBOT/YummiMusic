@@ -42,9 +42,9 @@
 
 </details> 
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Hima-xd/Zaan_ms"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/irtkaal/YummiMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
- Note:- Fillhttps://github.com/irtkaal/YummiMusic Before Use
+ Note:- Fill https://github.com/irtkaal/YummiMusic Before Use
 
  
 
@@ -60,7 +60,7 @@ sudo apt-get -y install git
 
 sudo pip3 install -U pip
 
-git clone https://github.com/Hima-xd/Zaan_ms && cd Hima-xd
+git clone https://github.com/irtkaal/YummiMusic
 
 pip3 install --upgrade pip setuptools
 
