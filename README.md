@@ -1,7 +1,7 @@
-# Yᑌᗰᗰ! χ SᑭOᖇT!
+#                    Yᑌᗰᗰ! χ SᑭOᖇT!
 [![Yᑌᗰᗰ! χ SᑭOᖇT!](https://te.legra.ph/file/c17f3f45ea3beb8037d07.jpg)](https://t.me/YummiSport)
 
-# Yᑌᗰᗰ! χ SᑭOᖇT!
+#                     Yᑌᗰᗰ! χ SᑭOᖇT!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+YUMMI+REPO)](https://t.me/world_of_kaal_1)
 
