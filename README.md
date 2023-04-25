@@ -1,7 +1,7 @@
-     #                    Yᑌᗰᗰ! χ SᑭOᖇT!
+  #                    Yᑌᗰᗰ! χ SᑭOᖇT!
 [![Yᑌᗰᗰ! χ SᑭOᖇT!](https://te.legra.ph/file/c17f3f45ea3beb8037d07.jpg)](https://t.me/YummiSport)
 
-    #                     Yᑌᗰᗰ! χ SᑭOᖇT!
+  #                     Yᑌᗰᗰ! χ SᑭOᖇT!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+YUMMI+REPO)](https://t.me/world_of_kaal_1)
 
@@ -45,7 +45,7 @@
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/irtkaal/YummiMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
- Note:- Fill https://github.com/irtkaal/YummiMusic/confing.py Before Use
+        Note:- Fill https://github.com/irtkaal/YummiMusic/confing.py Before Use
 
  
 
