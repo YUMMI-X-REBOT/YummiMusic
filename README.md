@@ -53,23 +53,35 @@
 
  <summary> ᴠᴘꜱ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ </summary>
 
-sudo apt-get update -y && apt-get upgrade -y
+               sudo apt-get update -y && apt-get upgrade -y
 
-sudo apt-get -y install git
+               sudo apt-get install python3-pip ffmpeg -y
 
- 
+               sudo apt-get install python3-pip -y               
 
-sudo pip3 install -U pip
+               sudo pip3 install -U pip
 
-git clone https://github.com/irtkaal/YummiMusic
+               curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
 
-pip3 install --upgrade pip setuptools
+git clone https://github.com/irtkaal/YummiMusic && cd YummiMusic
 
-pip3 install -U -r requirements.txt
+               pip3 install -U -r requirements.txt
 
-sudo apt install tmux && tmux
+Fill your variables in the env by : vi sample.env
 
-python3 -m YummiMusic
+Press I on the keyboard for editing env
+
+Press Ctrl+C when you're done with editing env and :wq to save the env
+
+                mv sample.env .env
+
+               sudo apt install tmux && tmux
+
+               bash start
+
+For getting out from tmux session : Press Ctrl+b and then d
+
+
 
  
 
