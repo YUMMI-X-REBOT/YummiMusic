@@ -63,23 +63,23 @@
 
                curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
 
-git clone https://github.com/irtkaal/YummiMusic && cd YummiMusic
+               git clone https://github.com/irtkaal/YummiMusic && cd YummiMusic
 
                pip3 install -U -r requirements.txt
 
-Fill your variables in the env by : vi sample.env
+               Fill your variables in the env by : vi sample.env
 
-Press I on the keyboard for editing env
+               Press I on the keyboard for editing env
 
-Press Ctrl+C when you're done with editing env and :wq to save the env
+               Press Ctrl+C when you're done with editing env and :wq to save the env
 
-                mv sample.env .env
+               mv sample.env .env
 
                sudo apt install tmux && tmux
 
-               bash start
+              bash start
 
-For getting out from tmux session : Press Ctrl+b and then d
+              For getting out from tmux session : Press Ctrl+b and then d
 
 
 
