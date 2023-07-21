@@ -60,7 +60,7 @@
       "START_IMG_URL": {
         "description": "bot ko start karna me jo pic dalana hai uska link daliya",
         "value": "",
-        "required": true
+        "required": false
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
