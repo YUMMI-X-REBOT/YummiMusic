@@ -1,7 +1,7 @@
 aiofiles
 aiohttp
 asyncio
-pillow==9.5.0
+pillow==10.0.1
 dnspython
 ffmpeg-python
 httpx
